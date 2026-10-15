@@ -1,0 +1,8 @@
+[
+  {
+    "level": "error",
+    "message": "TypeError: Cannot read properties of undefined (reading 'x')\n    at c (http://127.0.0.1:4173/_next/static/chunks/app/page-43227dcbbbc465e8.js:1:10138)",
+    "timestamp": "2026-10-15T21:34:25.604Z",
+    "url": "http://127.0.0.1:4173/_next/static/chunks/app/page-43227dcbbbc465e8.js"
+  }
+]

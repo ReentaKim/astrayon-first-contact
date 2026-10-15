@@ -1,0 +1,30 @@
+[
+  {
+    "wait": 5200,
+    "file": "rush-prepare.jpg",
+    "paused": "false",
+    "phase": "ATTACK",
+    "time": "5.44"
+  },
+  {
+    "wait": 7400,
+    "file": "rush-swing.jpg",
+    "paused": "false",
+    "phase": "ATTACK",
+    "time": "12.92"
+  },
+  {
+    "wait": 1700,
+    "file": "rush-recoil.jpg",
+    "paused": "false",
+    "phase": "ATTACK",
+    "time": "14.71"
+  },
+  {
+    "wait": 4800,
+    "file": "rush-result.jpg",
+    "paused": "false",
+    "phase": "ATTACK",
+    "time": "19.58"
+  }
+]

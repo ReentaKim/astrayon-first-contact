@@ -1,0 +1,29 @@
+{
+  "pauseBefore": {
+    "cutin": "opacity: 1; transform: translateX(0%); --pilot-scale: 1.01804; --pilot-pan: 0%; --cutin-line-shift: 13.176000000000002%;",
+    "paused": "true",
+    "time": "2.30"
+  },
+  "pauseAfter": {
+    "cutin": "opacity: 1; transform: translateX(0%); --pilot-scale: 1.01804; --pilot-pan: 0%; --cutin-line-shift: 13.176000000000002%;",
+    "paused": "true",
+    "time": "2.30"
+  },
+  "rifleFrames": [
+    {
+      "name": "aim",
+      "time": "6.20",
+      "phase": "ATTACK"
+    },
+    {
+      "name": "hit",
+      "time": "13.59",
+      "phase": "ATTACK"
+    },
+    {
+      "name": "result",
+      "time": "20.00",
+      "phase": "RESULT"
+    }
+  ]
+}

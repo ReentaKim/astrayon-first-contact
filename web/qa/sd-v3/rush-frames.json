@@ -1,0 +1,42 @@
+[
+  {
+    "frame": "pilot-hero",
+    "time": "1.94",
+    "phase": "ATTACK"
+  },
+  {
+    "frame": "prepare",
+    "time": "4.84",
+    "phase": "ATTACK"
+  },
+  {
+    "frame": "parry",
+    "time": "6.75",
+    "phase": "ATTACK"
+  },
+  {
+    "frame": "pilot-rival",
+    "time": "9.59",
+    "phase": "ATTACK"
+  },
+  {
+    "frame": "contact",
+    "time": "13.59",
+    "phase": "ATTACK"
+  },
+  {
+    "frame": "counter",
+    "time": "14.74",
+    "phase": "ATTACK"
+  },
+  {
+    "frame": "recovery",
+    "time": "16.23",
+    "phase": "ATTACK"
+  },
+  {
+    "frame": "result",
+    "time": "20.00",
+    "phase": "RESULT"
+  }
+]

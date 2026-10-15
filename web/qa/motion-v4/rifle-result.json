@@ -1,0 +1,18 @@
+{
+  "meters": [
+    {
+      "label": "HP 아스트레이온",
+      "value": "6000"
+    },
+    {
+      "label": "EN 아스트레이온",
+      "value": "80"
+    },
+    {
+      "label": "HP 옵시디언",
+      "value": "7800"
+    }
+  ],
+  "phase": "RESULT",
+  "time": "20.00"
+}

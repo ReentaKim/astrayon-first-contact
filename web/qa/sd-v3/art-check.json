@@ -1,0 +1,251 @@
+{
+  "checkedAt": "2026-10-15T21:30:24.830Z",
+  "files": [
+    {
+      "file": "battlefield.webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "bytes": 296448
+    },
+    {
+      "file": "pilot-hero.webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "bytes": 214904
+    },
+    {
+      "file": "pilot-rival.webp",
+      "width": 1600,
+      "height": 900,
+      "alpha": false,
+      "bytes": 245008
+    },
+    {
+      "file": "rival/backpack.webp",
+      "width": 234,
+      "height": 256,
+      "alpha": true,
+      "bytes": 64714
+    },
+    {
+      "file": "rival/binder.webp",
+      "width": 77,
+      "height": 256,
+      "alpha": true,
+      "bytes": 21490
+    },
+    {
+      "file": "rival/front-forearm.webp",
+      "width": 149,
+      "height": 256,
+      "alpha": true,
+      "bytes": 39008
+    },
+    {
+      "file": "rival/front-shin.webp",
+      "width": 198,
+      "height": 256,
+      "alpha": true,
+      "bytes": 48916
+    },
+    {
+      "file": "rival/front-thigh.webp",
+      "width": 144,
+      "height": 256,
+      "alpha": true,
+      "bytes": 37410
+    },
+    {
+      "file": "rival/front-upper-arm.webp",
+      "width": 169,
+      "height": 256,
+      "alpha": true,
+      "bytes": 39506
+    },
+    {
+      "file": "rival/head.webp",
+      "width": 256,
+      "height": 220,
+      "alpha": true,
+      "bytes": 58176
+    },
+    {
+      "file": "rival/pelvis.webp",
+      "width": 256,
+      "height": 212,
+      "alpha": true,
+      "bytes": 55464
+    },
+    {
+      "file": "rival/rear-forearm.webp",
+      "width": 139,
+      "height": 256,
+      "alpha": true,
+      "bytes": 36142
+    },
+    {
+      "file": "rival/rear-shin.webp",
+      "width": 209,
+      "height": 256,
+      "alpha": true,
+      "bytes": 49422
+    },
+    {
+      "file": "rival/rear-thigh.webp",
+      "width": 137,
+      "height": 256,
+      "alpha": true,
+      "bytes": 35246
+    },
+    {
+      "file": "rival/rear-upper-arm.webp",
+      "width": 163,
+      "height": 256,
+      "alpha": true,
+      "bytes": 37508
+    },
+    {
+      "file": "rival/rifle.webp",
+      "width": 256,
+      "height": 93,
+      "alpha": true,
+      "bytes": 18632
+    },
+    {
+      "file": "rival/saber.webp",
+      "width": 68,
+      "height": 202,
+      "alpha": true,
+      "bytes": 15250
+    },
+    {
+      "file": "rival/shield.webp",
+      "width": 107,
+      "height": 256,
+      "alpha": true,
+      "bytes": 27760
+    },
+    {
+      "file": "rival/torso.webp",
+      "width": 245,
+      "height": 256,
+      "alpha": true,
+      "bytes": 69546
+    },
+    {
+      "file": "hero/backpack.webp",
+      "width": 220,
+      "height": 256,
+      "alpha": true,
+      "bytes": 63398
+    },
+    {
+      "file": "hero/binder.webp",
+      "width": 72,
+      "height": 256,
+      "alpha": true,
+      "bytes": 20338
+    },
+    {
+      "file": "hero/front-forearm.webp",
+      "width": 147,
+      "height": 256,
+      "alpha": true,
+      "bytes": 38082
+    },
+    {
+      "file": "hero/front-shin.webp",
+      "width": 192,
+      "height": 256,
+      "alpha": true,
+      "bytes": 45200
+    },
+    {
+      "file": "hero/front-thigh.webp",
+      "width": 141,
+      "height": 256,
+      "alpha": true,
+      "bytes": 34564
+    },
+    {
+      "file": "hero/front-upper-arm.webp",
+      "width": 205,
+      "height": 256,
+      "alpha": true,
+      "bytes": 43074
+    },
+    {
+      "file": "hero/head.webp",
+      "width": 256,
+      "height": 238,
+      "alpha": true,
+      "bytes": 61602
+    },
+    {
+      "file": "hero/pelvis.webp",
+      "width": 256,
+      "height": 226,
+      "alpha": true,
+      "bytes": 58234
+    },
+    {
+      "file": "hero/rear-forearm.webp",
+      "width": 129,
+      "height": 256,
+      "alpha": true,
+      "bytes": 33328
+    },
+    {
+      "file": "hero/rear-shin.webp",
+      "width": 214,
+      "height": 256,
+      "alpha": true,
+      "bytes": 48818
+    },
+    {
+      "file": "hero/rear-thigh.webp",
+      "width": 141,
+      "height": 255,
+      "alpha": true,
+      "bytes": 35360
+    },
+    {
+      "file": "hero/rear-upper-arm.webp",
+      "width": 181,
+      "height": 256,
+      "alpha": true,
+      "bytes": 40104
+    },
+    {
+      "file": "hero/rifle.webp",
+      "width": 256,
+      "height": 100,
+      "alpha": true,
+      "bytes": 19668
+    },
+    {
+      "file": "hero/saber.webp",
+      "width": 59,
+      "height": 233,
+      "alpha": true,
+      "bytes": 15562
+    },
+    {
+      "file": "hero/shield.webp",
+      "width": 109,
+      "height": 256,
+      "alpha": true,
+      "bytes": 30080
+    },
+    {
+      "file": "hero/torso.webp",
+      "width": 252,
+      "height": 256,
+      "alpha": true,
+      "bytes": 69130
+    }
+  ],
+  "totalBytes": 2067092
+}

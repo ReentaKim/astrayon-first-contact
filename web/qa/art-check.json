@@ -1,0 +1,72 @@
+[
+  {
+    "file": "hero-dash.webp",
+    "width": 768,
+    "height": 768,
+    "alpha": true,
+    "bytes": 154356
+  },
+  {
+    "file": "hero-fire.webp",
+    "width": 768,
+    "height": 768,
+    "alpha": true,
+    "bytes": 164434
+  },
+  {
+    "file": "hero-idle.webp",
+    "width": 768,
+    "height": 768,
+    "alpha": true,
+    "bytes": 179062
+  },
+  {
+    "file": "hero-strike.webp",
+    "width": 768,
+    "height": 768,
+    "alpha": true,
+    "bytes": 171716
+  },
+  {
+    "file": "impact.webp",
+    "width": 1920,
+    "height": 1080,
+    "alpha": false,
+    "bytes": 479526
+  },
+  {
+    "file": "orbit.webp",
+    "width": 1920,
+    "height": 1080,
+    "alpha": false,
+    "bytes": 438076
+  },
+  {
+    "file": "rival-guard.webp",
+    "width": 768,
+    "height": 768,
+    "alpha": true,
+    "bytes": 196186
+  },
+  {
+    "file": "rival-hit.webp",
+    "width": 768,
+    "height": 768,
+    "alpha": true,
+    "bytes": 174412
+  },
+  {
+    "file": "rival-idle.webp",
+    "width": 768,
+    "height": 768,
+    "alpha": true,
+    "bytes": 175708
+  },
+  {
+    "file": "rival-strike.webp",
+    "width": 768,
+    "height": 768,
+    "alpha": true,
+    "bytes": 136512
+  }
+]

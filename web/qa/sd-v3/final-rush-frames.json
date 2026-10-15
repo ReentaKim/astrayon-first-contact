@@ -1,0 +1,37 @@
+[
+  {
+    "name": "pilot",
+    "phase": "ATTACK",
+    "time": "1.91"
+  },
+  {
+    "name": "prepare",
+    "phase": "ATTACK",
+    "time": "4.81"
+  },
+  {
+    "name": "parry",
+    "phase": "ATTACK",
+    "time": "6.66"
+  },
+  {
+    "name": "rival-pilot",
+    "phase": "ATTACK",
+    "time": "9.56"
+  },
+  {
+    "name": "contact",
+    "phase": "ATTACK",
+    "time": "13.53"
+  },
+  {
+    "name": "counter",
+    "phase": "ATTACK",
+    "time": "14.60"
+  },
+  {
+    "name": "result",
+    "phase": "RESULT",
+    "time": "20.00"
+  }
+]
