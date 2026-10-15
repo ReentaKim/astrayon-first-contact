@@ -1,0 +1,49 @@
+{
+  "version": "0.3.0",
+  "status": "PLAYABLE_SD_ARTICULATED_BATTLE",
+  "animationStatus": "16-part hierarchical sprite rigs with continuous joints and socket-attached weapons; original static pilot action cut-ins",
+  "generatedArt": {
+    "tool": "built-in image_gen",
+    "date": "2026-10-16",
+    "prompts": "source-art/sd-v3/prompts.json",
+    "masters": [
+      "source-art/sd-v3/hero-parts.png",
+      "source-art/sd-v3/rival-parts.png",
+      "source-art/sd-v3/pilot-hero.png",
+      "source-art/sd-v3/pilot-rival.png",
+      "source-art/sd-v3/battlefield.png"
+    ],
+    "preparation": "scripts/prepare-sd-art.mjs",
+    "runtimeManifest": "/game/sd/parts-manifest.json",
+    "runtimeAdditional": [
+      "/game/sd/pilot-hero.webp",
+      "/game/sd/pilot-rival.webp",
+      "/game/sd/battlefield.webp"
+    ]
+  },
+  "pilotIdentity": {
+    "hero": "Dark hair, white/navy helmet, original cockpit shouting pose",
+    "rival": "Light brown hair, mask on anatomical left (viewer right in portrait); never horizontally flipped",
+    "referenceCropsRuntimeLoaded": false
+  },
+  "originalPixelUnits": {
+    "source": "src/components/TacticalMap.tsx",
+    "status": "Original code-authored tactical map sprites"
+  },
+  "audio": {
+    "status": "Procedural demo music and effects; no voice recording",
+    "source": "src/game/audio/BattleAudio.ts",
+    "timing": "src/game/data/motion.ts MOTION_CUES"
+  },
+  "legacyArt": {
+    "wholeRobotKeyPosesRuntimeLoaded": false,
+    "impactPaintingRuntimeLoaded": false,
+    "referencePilotCropsRuntimeLoaded": false,
+    "orbitUsed": "Tactical map and missing-battlefield fallback"
+  },
+  "finalProductionNeeded": [
+    "Hand-drawn smear/in-between frames and alternate angles",
+    "Pilot eye/mouth/expression frame animation",
+    "Recorded and mixed sound design, music and voice acting"
+  ]
+}
