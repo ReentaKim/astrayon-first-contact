@@ -1,0 +1,453 @@
+{
+  "version": 3,
+  "parts": [
+    {
+      "unit": "hero",
+      "part": "head",
+      "file": "public/game/sd/hero/head.webp",
+      "width": 256,
+      "height": 238,
+      "bytes": 61602,
+      "sourceBounds": {
+        "left": 48,
+        "top": 23,
+        "width": 320,
+        "height": 297
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "torso",
+      "file": "public/game/sd/hero/torso.webp",
+      "width": 252,
+      "height": 256,
+      "bytes": 69130,
+      "sourceBounds": {
+        "left": 371,
+        "top": 44,
+        "width": 280,
+        "height": 284
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "pelvis",
+      "file": "public/game/sd/hero/pelvis.webp",
+      "width": 256,
+      "height": 226,
+      "bytes": 58234,
+      "sourceBounds": {
+        "left": 675,
+        "top": 64,
+        "width": 279,
+        "height": 246
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "backpack",
+      "file": "public/game/sd/hero/backpack.webp",
+      "width": 220,
+      "height": 256,
+      "bytes": 63398,
+      "sourceBounds": {
+        "left": 1006,
+        "top": 54,
+        "width": 220,
+        "height": 256
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "rear-upper-arm",
+      "file": "public/game/sd/hero/rear-upper-arm.webp",
+      "width": 181,
+      "height": 256,
+      "bytes": 40104,
+      "sourceBounds": {
+        "left": 62,
+        "top": 341,
+        "width": 192,
+        "height": 271
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "rear-forearm",
+      "file": "public/game/sd/hero/rear-forearm.webp",
+      "width": 129,
+      "height": 256,
+      "bytes": 33328,
+      "sourceBounds": {
+        "left": 410,
+        "top": 343,
+        "width": 143,
+        "height": 284
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "front-upper-arm",
+      "file": "public/game/sd/hero/front-upper-arm.webp",
+      "width": 205,
+      "height": 256,
+      "bytes": 43074,
+      "sourceBounds": {
+        "left": 677,
+        "top": 327,
+        "width": 226,
+        "height": 282
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "front-forearm",
+      "file": "public/game/sd/hero/front-forearm.webp",
+      "width": 147,
+      "height": 256,
+      "bytes": 38082,
+      "sourceBounds": {
+        "left": 1027,
+        "top": 341,
+        "width": 163,
+        "height": 284
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "rear-thigh",
+      "file": "public/game/sd/hero/rear-thigh.webp",
+      "width": 141,
+      "height": 255,
+      "bytes": 35360,
+      "sourceBounds": {
+        "left": 91,
+        "top": 643,
+        "width": 141,
+        "height": 255
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "rear-shin",
+      "file": "public/game/sd/hero/rear-shin.webp",
+      "width": 214,
+      "height": 256,
+      "bytes": 48818,
+      "sourceBounds": {
+        "left": 371,
+        "top": 637,
+        "width": 235,
+        "height": 281
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "front-thigh",
+      "file": "public/game/sd/hero/front-thigh.webp",
+      "width": 141,
+      "height": 256,
+      "bytes": 34564,
+      "sourceBounds": {
+        "left": 716,
+        "top": 639,
+        "width": 142,
+        "height": 257
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "front-shin",
+      "file": "public/game/sd/hero/front-shin.webp",
+      "width": 192,
+      "height": 256,
+      "bytes": 45200,
+      "sourceBounds": {
+        "left": 1010,
+        "top": 636,
+        "width": 216,
+        "height": 288
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "rifle",
+      "file": "public/game/sd/hero/rifle.webp",
+      "width": 256,
+      "height": 100,
+      "bytes": 19668,
+      "sourceBounds": {
+        "left": 27,
+        "top": 1016,
+        "width": 403,
+        "height": 157
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "shield",
+      "file": "public/game/sd/hero/shield.webp",
+      "width": 109,
+      "height": 256,
+      "bytes": 30080,
+      "sourceBounds": {
+        "left": 467,
+        "top": 923,
+        "width": 135,
+        "height": 318
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "saber",
+      "file": "public/game/sd/hero/saber.webp",
+      "width": 59,
+      "height": 233,
+      "bytes": 15562,
+      "sourceBounds": {
+        "left": 788,
+        "top": 992,
+        "width": 59,
+        "height": 233
+      }
+    },
+    {
+      "unit": "hero",
+      "part": "binder",
+      "file": "public/game/sd/hero/binder.webp",
+      "width": 72,
+      "height": 256,
+      "bytes": 20338,
+      "sourceBounds": {
+        "left": 1056,
+        "top": 934,
+        "width": 86,
+        "height": 307
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "head",
+      "file": "public/game/sd/rival/head.webp",
+      "width": 256,
+      "height": 220,
+      "bytes": 58176,
+      "sourceBounds": {
+        "left": 32,
+        "top": 25,
+        "width": 345,
+        "height": 297
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "torso",
+      "file": "public/game/sd/rival/torso.webp",
+      "width": 245,
+      "height": 256,
+      "bytes": 69546,
+      "sourceBounds": {
+        "left": 378,
+        "top": 37,
+        "width": 274,
+        "height": 286
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "pelvis",
+      "file": "public/game/sd/rival/pelvis.webp",
+      "width": 256,
+      "height": 212,
+      "bytes": 55464,
+      "sourceBounds": {
+        "left": 668,
+        "top": 75,
+        "width": 295,
+        "height": 244
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "backpack",
+      "file": "public/game/sd/rival/backpack.webp",
+      "width": 234,
+      "height": 256,
+      "bytes": 64714,
+      "sourceBounds": {
+        "left": 983,
+        "top": 30,
+        "width": 257,
+        "height": 281
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "rear-upper-arm",
+      "file": "public/game/sd/rival/rear-upper-arm.webp",
+      "width": 163,
+      "height": 256,
+      "bytes": 37508,
+      "sourceBounds": {
+        "left": 69,
+        "top": 325,
+        "width": 187,
+        "height": 293
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "rear-forearm",
+      "file": "public/game/sd/rival/rear-forearm.webp",
+      "width": 139,
+      "height": 256,
+      "bytes": 36142,
+      "sourceBounds": {
+        "left": 417,
+        "top": 342,
+        "width": 154,
+        "height": 283
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "front-upper-arm",
+      "file": "public/game/sd/rival/front-upper-arm.webp",
+      "width": 169,
+      "height": 256,
+      "bytes": 39506,
+      "sourceBounds": {
+        "left": 693,
+        "top": 324,
+        "width": 197,
+        "height": 299
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "front-forearm",
+      "file": "public/game/sd/rival/front-forearm.webp",
+      "width": 149,
+      "height": 256,
+      "bytes": 39008,
+      "sourceBounds": {
+        "left": 1042,
+        "top": 347,
+        "width": 161,
+        "height": 277
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "rear-thigh",
+      "file": "public/game/sd/rival/rear-thigh.webp",
+      "width": 137,
+      "height": 256,
+      "bytes": 35246,
+      "sourceBounds": {
+        "left": 91,
+        "top": 634,
+        "width": 141,
+        "height": 263
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "rear-shin",
+      "file": "public/game/sd/rival/rear-shin.webp",
+      "width": 209,
+      "height": 256,
+      "bytes": 49422,
+      "sourceBounds": {
+        "left": 388,
+        "top": 628,
+        "width": 234,
+        "height": 287
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "front-thigh",
+      "file": "public/game/sd/rival/front-thigh.webp",
+      "width": 144,
+      "height": 256,
+      "bytes": 37410,
+      "sourceBounds": {
+        "left": 712,
+        "top": 634,
+        "width": 148,
+        "height": 263
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "front-shin",
+      "file": "public/game/sd/rival/front-shin.webp",
+      "width": 198,
+      "height": 256,
+      "bytes": 48916,
+      "sourceBounds": {
+        "left": 1011,
+        "top": 625,
+        "width": 224,
+        "height": 289
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "rifle",
+      "file": "public/game/sd/rival/rifle.webp",
+      "width": 256,
+      "height": 93,
+      "bytes": 18632,
+      "sourceBounds": {
+        "left": 23,
+        "top": 1027,
+        "width": 406,
+        "height": 148
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "shield",
+      "file": "public/game/sd/rival/shield.webp",
+      "width": 107,
+      "height": 256,
+      "bytes": 27760,
+      "sourceBounds": {
+        "left": 468,
+        "top": 920,
+        "width": 133,
+        "height": 318
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "saber",
+      "file": "public/game/sd/rival/saber.webp",
+      "width": 68,
+      "height": 202,
+      "bytes": 15250,
+      "sourceBounds": {
+        "left": 778,
+        "top": 990,
+        "width": 68,
+        "height": 202
+      }
+    },
+    {
+      "unit": "rival",
+      "part": "binder",
+      "file": "public/game/sd/rival/binder.webp",
+      "width": 77,
+      "height": 256,
+      "bytes": 21490,
+      "sourceBounds": {
+        "left": 1059,
+        "top": 913,
+        "width": 99,
+        "height": 328
+      }
+    }
+  ]
+}
