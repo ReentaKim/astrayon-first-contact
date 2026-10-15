@@ -1,0 +1,77 @@
+{
+  "note": "기존 대화의 원본 이미지 복사본. 게임용 신규 원화, 영상, 음성, 투명 분리 레이어는 아직 없음.",
+  "references": [
+    {
+      "id": "01",
+      "path": "assets/references/01-astrayon-design.png",
+      "source_filename": "a_highly_detailed_mechanical_design_sheet_poster.png",
+      "title": "ASTRAYON 기체 설정화",
+      "usage": "기체 형태·색상 참고. 이미지 안의 수치와 세계관 문구는 확정 설정이 아님.",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 2764776,
+      "sha256": "7267926c8f4a58f0ebbe1044af63c659d8e6b472f4a8b904438d96b39d8136bb",
+      "status": "reference_only"
+    },
+    {
+      "id": "02",
+      "path": "assets/references/02-astrayon-head-and-pilot.png",
+      "source_filename": "a_widescreen_high_detail_sci_fi_anime_mecha_conce.png",
+      "title": "ASTRAYON 얼굴 및 주인공 헬멧",
+      "usage": "주인공 얼굴·헬멧과 기체 두부의 우선 참고. 좌우 복제 인물을 서로 다른 인물로 해석하지 않음.",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 2408956,
+      "sha256": "18f9b89d8595b2ccabaaa3ac2da64ff8113c6e6038b7939550bd84919dd8ba47",
+      "status": "reference_only"
+    },
+    {
+      "id": "03",
+      "path": "assets/references/03-obsidian-early-design.png",
+      "source_filename": "a_detailed_sci_fi_mecha_concept_sheet_poster_a.png",
+      "title": "OBSIDIAN 초기 설정화",
+      "usage": "기체 참고에만 사용. 가면 없는 초기 라이벌 얼굴은 폐기된 방향.",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 2630007,
+      "sha256": "7381a9f95d169e1e7e0f6637fa200247d1452ffb52eeb9fc738180ab5cc1cf71",
+      "status": "reference_only"
+    },
+    {
+      "id": "04",
+      "path": "assets/references/04-obsidian-masked-pilot.png",
+      "source_filename": "a_cinematic_anime_mecha_character_concept_poster_w.png",
+      "title": "OBSIDIAN 및 반쪽 가면 라이벌 수정안",
+      "usage": "라이벌 외형의 우선 참고는 PILOT 영역의 큰 초상. 밝은 갈색 계열 머리·비대칭 반쪽 가면을 보존. 작은 보조 컷보다 큰 초상을 우선.",
+      "width": 1312,
+      "height": 1199,
+      "bytes": 2589409,
+      "sha256": "851285170c8a971a2ee3b692fd17d6cad4f9682544e3b2e556e38cf699ecce47",
+      "status": "reference_only"
+    },
+    {
+      "id": "05",
+      "path": "assets/references/05-poster-duel.png",
+      "source_filename": "epic_anime_style_mech_poster_split_composition_ci.png",
+      "title": "대결 포스터 A",
+      "usage": "푸른빛/적색 대비와 라이벌 가면 분위기 참고. 개봉일·크레딧·기관명은 게임에 가져오지 않음.",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 3061780,
+      "sha256": "22c9f024bf8d7fb8a1777988903919e7056b04cc5c382c55061ba212e0279e83",
+      "status": "reference_only"
+    },
+    {
+      "id": "06",
+      "path": "assets/references/06-poster-atmosphere.png",
+      "source_filename": "a_dramatic_cinematic_anime_style_poster_compositi.png",
+      "title": "대결 포스터 B",
+      "usage": "구도·빛·장면 분위기만 참고. 라이벌 머리와 얼굴의 일관성은 04번으로 교정. 개봉일·크레딧은 사용하지 않음.",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2853253,
+      "sha256": "0340b350bd2635d4338ffd1e1c1810a084df6a6eb19b46350d2784ef145fbe38",
+      "status": "reference_only"
+    }
+  ]
+}

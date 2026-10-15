@@ -1,0 +1,14 @@
+.DS_Store
+**/node_modules/
+**/.next/
+**/out/
+**/*.tsbuildinfo
+**/test-results/
+**/playwright-report/
+**/.env*
+!**/.env.example
+*.log
+web/qa/motion-v4/frames/
+web/qa/motion-v4/loaded.jpg
+web/qa/motion-v4/collapse.jpg
+web/qa/motion-v4/collapse-final.jpg

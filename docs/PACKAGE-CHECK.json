@@ -1,0 +1,40 @@
+{
+  "checked": "package files, image decoding, SHA-256 copies, arithmetic of four proposed paths",
+  "not_checked": [
+    "game code (not included)",
+    "runtime animation",
+    "browser play",
+    "audio files (not included)",
+    "deployment"
+  ],
+  "sample_arithmetic_only": [
+    {
+      "attack": "rifle",
+      "response": "guard",
+      "hero_hp": 4600,
+      "hero_en": 20,
+      "rival_hp": 200
+    },
+    {
+      "attack": "rifle",
+      "response": "evade",
+      "hero_hp": 5400,
+      "hero_en": 0,
+      "rival_hp": 700
+    },
+    {
+      "attack": "rush",
+      "response": "guard",
+      "hero_hp": 4200,
+      "hero_en": 40,
+      "rival_hp": 300
+    },
+    {
+      "attack": "rush",
+      "response": "evade",
+      "hero_hp": 5000,
+      "hero_en": 20,
+      "rival_hp": 800
+    }
+  ]
+}
